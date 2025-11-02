@@ -38,9 +38,4 @@ It analyzes song metadata, lyrics, and other textual features to find similar mu
 
 ---
 
-## 📦 Installation
 
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/music-recommendation-nlp.git
-cd music-recommendation-nlp
