@@ -40,7 +40,6 @@ It analyzes song metadata, lyrics, and other textual features to find similar mu
 
 <img width="1852" height="918" alt="Screenshot 2025-11-03 212506" src="https://github.com/user-attachments/assets/c283c759-22ef-4969-ae3b-30d178d0f720" />
 <img width="1901" height="927" alt="Screenshot 2025-11-03 212532" src="https://github.com/user-attachments/assets/87b5a9b7-ca7b-44ee-9733-535882ee42fd" />
-![Uploading Screenshot 2025-11-03 212602.png…]()
 
 
 
