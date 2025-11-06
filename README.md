@@ -108,4 +108,13 @@ In summary, the best-performing model was a hybrid approach combining SVD with c
 - GroupLens Research: [MovieLens Datasets](https://grouplens.org/datasets/movielens/)  
 - Koren, Y., Bell, R., & Volinsky, C. (2009). *Matrix Factorization Techniques for Recommender Systems*. IEEE Computer.  
 - Scikit-learn Documentation: https://scikit-learn.org/  
-- Surprise Recommender System Library: https://surpriselib.com/  
+- Surprise Recommender System Library: https://surpriselib.com/
+
+
+<img width="1852" height="918" alt="Screenshot 2025-11-03 212506" src="https://github.com/user-attachments/assets/15ee04e3-7060-4bd2-be8c-ff27d6754d0e" />
+
+<img width="1901" height="927" alt="Screenshot 2025-11-03 212532" src="https://github.com/user-attachments/assets/eadb484f-5519-426a-bc68-642438b17aa0" />
+<img width="1901" height="974" alt="Screenshot 2025-11-03 212602" src="https://github.com/user-attachments/assets/98774eea-ea85-4dde-b257-da0082f1c066" />
+
+
+
