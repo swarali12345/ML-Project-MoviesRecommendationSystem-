@@ -1,8 +1,8 @@
 
 # 🎵 Music Recommendation System using NLP
 
-🎬 Movies Recommendation System
-🧠 Overview
+#🎬 Movies Recommendation System
+#🧠 Overview
 
 This project focuses on building a Movie Recommendation System that suggests movies to users based on their preferences and viewing history.
 Recommender systems have become an essential part of modern digital platforms like Netflix, Amazon Prime, and YouTube — helping users find relevant content among thousands of options.
@@ -10,7 +10,7 @@ Recommender systems have become an essential part of modern digital platforms li
 The goal of this project is to explore different recommendation techniques (like content-based filtering and collaborative filtering) and evaluate their effectiveness in predicting user preferences.
 By the end, I was able to build a system that gives personalized movie suggestions with decent accuracy and good scalability for larger datasets.
 
-📊 Dataset Source
+#📊 Dataset Source
 
 The dataset used in this project is the MovieLens dataset provided by GroupLens Research
 .
