@@ -1,8 +1,8 @@
 
 # 🎵 Music Recommendation System using NLP
 
-#🎬 Movies Recommendation System
-#🧠 Overview
+🎬 Movies Recommendation System
+🧠 Overview
 
 This project focuses on building a Movie Recommendation System that suggests movies to users based on their preferences and viewing history.
 Recommender systems have become an essential part of modern digital platforms like Netflix, Amazon Prime, and YouTube — helping users find relevant content among thousands of options.
