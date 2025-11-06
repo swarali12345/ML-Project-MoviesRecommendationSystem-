@@ -17,7 +17,7 @@ I used the **MovieLens 100K dataset**, which contains:
 - 1682 movies  
 
 ###  Data Preprocessing
-- Merged multiple CSV files: `movies.csv`, `ratings.csv`, and `users.csv`.  
+- Merged multiple CSV files: `movies.csv`and 'credits.csv'.  
 - Handled missing values and removed duplicate entries.  
 - Converted movie genres into one-hot encoded vectors for easier computation.  
 - Normalized user ratings for collaborative filtering models.  
