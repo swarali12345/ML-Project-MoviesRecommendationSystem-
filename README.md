@@ -1,6 +1,6 @@
 # 🎬 Movies Recommendation System  
 
-## 🧠 Overview  
+##  Overview  
 This project focuses on building a **Movie Recommendation System** that suggests movies to users based on their preferences and viewing history.  
 Recommender systems have become an essential part of modern digital platforms like Netflix, Amazon Prime, and YouTube — helping users find relevant content among thousands of options.  
 
@@ -9,14 +9,14 @@ By the end, I was able to build a system that gives personalized movie suggestio
 
 ---
 
-## 📊 Dataset Source  
+##  Dataset Source  
 The dataset used in this project is the **MovieLens dataset** provided by [GroupLens Research](https://grouplens.org/datasets/movielens/).  
 I used the **MovieLens 100K dataset**, which contains:  
 - 100,000 ratings (1–5 scale)  
 - 943 users  
 - 1682 movies  
 
-### 🧹 Data Preprocessing
+###  Data Preprocessing
 - Merged multiple CSV files: `movies.csv`, `ratings.csv`, and `users.csv`.  
 - Handled missing values and removed duplicate entries.  
 - Converted movie genres into one-hot encoded vectors for easier computation.  
@@ -25,7 +25,7 @@ I used the **MovieLens 100K dataset**, which contains:
 
 ---
 
-## ⚙️ Methods  
+##  Methods  
 
 The project implements two main recommendation approaches:  
 
@@ -51,7 +51,7 @@ I also tested **hybrid methods** that combine both techniques for better perform
 
 ---
 
-## 🧩 Steps to Run the Code  
+##  Steps to Run the Code  
 
 1. Clone the repository  
    ```bash
@@ -74,7 +74,7 @@ I also tested **hybrid methods** that combine both techniques for better perform
 
 ---
 
-## 🔬 Experiments & Results Summary  
+##  Experiments & Results Summary  
 
 I compared different algorithms based on **RMSE (Root Mean Squared Error)** and **Precision@K** metrics.  
 
@@ -94,7 +94,7 @@ I compared different algorithms based on **RMSE (Root Mean Squared Error)** and 
 
 ---
 
-## 🧾 Conclusion  
+##  Conclusion  
 Through this project, I learned:  
 - The **importance of feature engineering** (especially in content-based systems).  
 - How **collaborative filtering** can capture hidden patterns that pure metadata-based methods miss.  
@@ -104,7 +104,7 @@ In summary, the best-performing model was a hybrid approach combining SVD with c
 
 ---
 
-## 📚 References  
+##  References  
 - GroupLens Research: [MovieLens Datasets](https://grouplens.org/datasets/movielens/)  
 - Koren, Y., Bell, R., & Volinsky, C. (2009). *Matrix Factorization Techniques for Recommender Systems*. IEEE Computer.  
 - Scikit-learn Documentation: https://scikit-learn.org/  
